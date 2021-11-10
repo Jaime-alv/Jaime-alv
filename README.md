@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Welcome! My name is Jaime. 
+My name is Jaime. 
 
 Join me in this wonderful journey. I like building stuff, from 'just for fun' scripts that can do some silly things, or 'functional ones' that can ease my life, 
 and I hope, yours too! 
@@ -26,6 +26,11 @@ and I hope, yours too!
 - <img src="https://user-images.githubusercontent.com/88266316/138834725-6296fcda-6036-497e-8bb9-54fcf09cdcda.png" width="30" height="30"> **Linkedin**:
 
   [Jaime Alvarez](https://www.linkedin.com/in/jaime-%C3%A1lvarez-fdz/)
+  
+  ## Support
+Tips are appreciated 😄
+ 
+ [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y56XIFG)
 
 <!--
 **Jaime-alv/Jaime-alv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
