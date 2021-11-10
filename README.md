@@ -17,16 +17,22 @@ and I hope, yours too!
 ## Where you can find me
 
  📫 How to reach me:
- - <img src="https://user-images.githubusercontent.com/88266316/138836149-6853bd82-127c-45fc-8fb9-f81769033f1f.png" width="30" height="30"> **Codewars**:
+ - <img src="https://user-images.githubusercontent.com/88266316/141111211-188e4d84-2075-405f-8535-1db1ea07c499.png" width="45" height="30"> **Email**:
+  
+   jaime.af.git@gmail.com
+  
+
+- <img src="https://user-images.githubusercontent.com/88266316/138834725-6296fcda-6036-497e-8bb9-54fcf09cdcda.png" width="30" height="30"> **Linkedin**:
+
+  [Jaime Alvarez](https://www.linkedin.com/in/jaime-%C3%A1lvarez-fdz/)
+
+- <img src="https://user-images.githubusercontent.com/88266316/138836149-6853bd82-127c-45fc-8fb9-f81769033f1f.png" width="30" height="30"> **Codewars**:
    
    [Jaime Alvarez](https://www.codewars.com/users/Jaime%20%C3%81lvarez) 
    
    ![codewars](https://www.codewars.com/users/Jaime%20%C3%81lvarez/badges/small) 
 
-- <img src="https://user-images.githubusercontent.com/88266316/138834725-6296fcda-6036-497e-8bb9-54fcf09cdcda.png" width="30" height="30"> **Linkedin**:
 
-  [Jaime Alvarez](https://www.linkedin.com/in/jaime-%C3%A1lvarez-fdz/)
-  
   ## Support
 Tips are appreciated 😄
  
