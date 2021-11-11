@@ -32,8 +32,7 @@ and I hope, yours too!
    
    ![codewars](https://www.codewars.com/users/Jaime%20%C3%81lvarez/badges/small) 
 
-
-  ## Support
+## Support
 Tips are appreciated 😄
  
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y56XIFG)
