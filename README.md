@@ -1,12 +1,15 @@
 ### Hi there 👋
 
 
-My name is Jaime. 
+My name is Jaime and I’m a self-taught programmer.
 
 Join me in this wonderful journey. I like building stuff, from 'just for fun' scripts that can do some silly things, or 'functional ones' that can ease my life, 
 and I hope, yours too! 
 
-##### Feedback and reviews are always welcome! Tell me how I can improve my code!
+I love solving puzzles and the logic behind them. Programming let us solve all those tedious tasks that can be automated and give a different solution, and that's
+why I love it! You use a combination of science, art, and craft to create something unique and wonderful!
+
+**Feedback and reviews are always welcome! Tell me how I can improve my code!**
 
 ## What I use
 
@@ -32,8 +35,10 @@ and I hope, yours too!
    
    ![codewars](https://www.codewars.com/users/Jaime%20%C3%81lvarez/badges/small) 
 
-## Support
-Tips are appreciated 😄
+## Feeling generous?
+Tips help me improve my repositories devoting more time to them, your support means a lot but don't feel obliged! 
+
+They are appreciated, of course! 😄
  
  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y56XIFG)
 
