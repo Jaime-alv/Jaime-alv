@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-My name is Jaime and I’m a self-taught programmer.
+My name is Jaime, welcome to my GitHub!
 
 Join me in this wonderful journey. I like building stuff, from 'just for fun' scripts that can do some silly things, or 'functional ones' that can ease my life, 
 and I hope, yours too! 
