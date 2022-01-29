@@ -13,7 +13,7 @@ why I love it! You use a combination of science, art, and craft to create someth
 
 ## What I use
 
-<img src="https://user-images.githubusercontent.com/88266316/138836961-7af43227-8711-4b8f-8303-1427cfbc173f.png" width="172" height="50">
+[<img src="https://user-images.githubusercontent.com/88266316/138836961-7af43227-8711-4b8f-8303-1427cfbc173f.png" width="172" height="50">](https://www.python.org/)
 
 <img src="https://user-images.githubusercontent.com/88266316/138837516-f00d05be-6c86-4455-ba8d-3e6d873b3e4f.png" width="84" height="50">
 
