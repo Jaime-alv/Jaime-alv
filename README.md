@@ -22,7 +22,7 @@ why I love it! You use a combination of science, art, and craft to create someth
 ## Reach me!
 
  [<img src="https://user-images.githubusercontent.com/88266316/141111211-188e4d84-2075-405f-8535-1db1ea07c499.png" width="140" height="100">](mailto:jaime.af.git@gmail.com)     
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100"/>](https://www.linkedin.com/in/jaime-%C3%A1lvarez-fdz/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100"/>](https://www.linkedin.com/in/jaime-alvarez-fdz/)
 
 ## Feeling generous?
 Tips help me improve my repositories devoting more time to them, your support means a lot but don't feel obliged! 
