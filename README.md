@@ -19,23 +19,10 @@ why I love it! You use a combination of science, art, and craft to create someth
 
 <img src="https://user-images.githubusercontent.com/88266316/138837516-f00d05be-6c86-4455-ba8d-3e6d873b3e4f.png" width="84" height="50">
 
-## Where you can find me
+## Reach me!
 
- 📫 How to reach me:
- - <img src="https://user-images.githubusercontent.com/88266316/141111211-188e4d84-2075-405f-8535-1db1ea07c499.png" width="45" height="30"> **Email**:
-  
-   jaime.af.git@gmail.com
-  
-
-- <img src="https://user-images.githubusercontent.com/88266316/138834725-6296fcda-6036-497e-8bb9-54fcf09cdcda.png" width="30" height="30"> **Linkedin**:
-
-  [Jaime Alvarez](https://www.linkedin.com/in/jaime-%C3%A1lvarez-fdz/)
-
-- <img src="https://user-images.githubusercontent.com/88266316/138836149-6853bd82-127c-45fc-8fb9-f81769033f1f.png" width="30" height="30"> **Codewars**:
-   
-   [Jaime Alvarez](https://www.codewars.com/users/Jaime%20%C3%81lvarez) 
-   
-   ![codewars](https://www.codewars.com/users/Jaime%20%C3%81lvarez/badges/small) 
+ [<img src="https://user-images.githubusercontent.com/88266316/141111211-188e4d84-2075-405f-8535-1db1ea07c499.png" width="140" height="100">](mailto:jaime.af.git@gmail.com)     
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="100" height="100"/>](https://www.linkedin.com/in/jaime-%C3%A1lvarez-fdz/)
 
 ## Feeling generous?
 Tips help me improve my repositories devoting more time to them, your support means a lot but don't feel obliged! 
