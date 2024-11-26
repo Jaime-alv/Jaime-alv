@@ -14,10 +14,8 @@ why I love it! You use a combination of science, art, and craft to create someth
 ## What I use
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50"/>](https://www.python.org/)
-
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="50" height="50"/>](https://www.scala-lang.org/)
-
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50" height="50"/>](https://www.rust-lang.org/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50" height="50"/>](https://www.rust-lang.org/)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/>](https://www.java.com/)
 
 <img src="https://user-images.githubusercontent.com/88266316/138837516-f00d05be-6c86-4455-ba8d-3e6d873b3e4f.png" width="84" height="50">
 
