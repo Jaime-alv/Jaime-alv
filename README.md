@@ -26,16 +26,10 @@ Join me in this wonderful journey!
 
 ## Reach me!
 
-[![linkedIn](https://img.shields.io/badge/LinkedIn-0E76A8?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jaime-alvarez-fdz/)
-[![mail](https://img.shields.io/badge/gmail-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jaime.af.git@gmail.com)
+[![linkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jaime-alvarez-fdz/)
 
-## Feeling generous?
+[![mail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jaime.af.git@gmail.com)
 
-Tips help me improve my repositories devoting more time to them, your support means a lot but don't feel obliged!
-
-They are appreciated, of course! 😄
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y56XIFG)
 
 <!--
 **Jaime-alv/Jaime-alv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
