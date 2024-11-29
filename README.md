@@ -22,7 +22,7 @@ Join me in this wonderful journey!
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" width="50" height="50"/>](https://www.scala-lang.org/)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="50" height="50"/>](https://www.rust-lang.org/)[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" height="50"/>](https://www.java.com/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-alv&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaime-alv&layout=compact&theme=swift&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Reach me!
 
